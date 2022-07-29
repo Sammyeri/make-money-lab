@@ -1,0 +1,53 @@
+
+#container{
+    width:100vw;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+
+
+.penny{
+    width: 40px;
+    height: 40px;
+    background-color: saddlebrown;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nickle{
+    width: 60px;
+    height:60px;
+    background-color: darkgrey;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dime{
+    width: 30px;
+    height: 30px;
+    background-color: darkgrey;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quarter{
+    width: 80px;
+    height: 80px;
+    background-color: darkgrey;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
